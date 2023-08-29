@@ -7,6 +7,34 @@
 .logo {
     display: inline;
     font-family: sans-serif;
-    vertical-align: middle;
-    font-size: 35px;
+    vertical-align:middle;
+    font-size: 35px; 
+}
+
+#logo-img {
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.container {
+    margin: 0 auto;
+    margin-top: 100px;
+    max-width: 1080px;
+}
+
+.blue-button {
+    background-color: #47ADF1;
+    color: white;
+    border: none;
+    border-radius: 5px ;
+    padding: 8px;
+}
+
+.white-button {
+    background-color:white;
+    color: rgb(128, 128, 128, 0.7);
+    border: solid gray thin;
+    border-radius: 5px ;
+    padding: 8px;
+
 }

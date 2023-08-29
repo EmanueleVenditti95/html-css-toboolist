@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: sans-serif;
+    font-weight:600;
 }
 
 .logo {
@@ -20,6 +21,7 @@
     margin: 0 auto;
     margin-top: 100px;
     max-width: 1080px;
+    
 }
 
 .blue-button {
@@ -41,6 +43,10 @@
 .list {
     list-style: none;
     
+}
+
+li{
+    margin: 20px;
 }
 
 .small-blue-button {

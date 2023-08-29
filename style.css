@@ -17,11 +17,27 @@
     margin-top: 10px;
 }
 
+header{
+    background-color: white;
+}
+
 .container {
+    margin: 0 auto;
+    margin-top: 5px;
+    padding: 20px 0px;
+    max-width: 1080px;
+    border-style: hidden; 
+    background-color: white;
+}
+
+.buttons-bar {
     margin: 0 auto;
     margin-top: 100px;
     max-width: 1080px;
-    
+    border-style: hidden; 
+    padding: 10px 40px;
+    background-color: white;
+
 }
 
 .blue-button {

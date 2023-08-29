@@ -2,11 +2,11 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: sans-serif;
 }
 
 .logo {
     display: inline;
-    font-family: sans-serif;
     vertical-align:middle;
     font-size: 35px; 
 }
@@ -36,5 +36,65 @@
     border: solid gray thin;
     border-radius: 5px ;
     padding: 8px;
+}
 
+.list {
+    list-style: none;
+    
+}
+
+.small-blue-button {
+    background-color: #47ADF1;
+    color: white;
+    border: none;
+    border-radius: 10px ;
+    padding: 6px 10px;
+    font-size: 10px;
+}
+
+.small-violet-button{
+    background-color: #9C72E4;
+    color: white;
+    border: none;
+    border-radius: 10px ;
+    padding: 6px 10px;
+    font-size: 10px;
+
+}
+
+.small-green-button{
+    background-color: #64C0A9;
+    color: white;
+    border: none;
+    border-radius: 10px ;
+    padding: 6px 10px;
+    font-size: 10px;
+
+}
+
+.small-orange-button{
+    background-color: #F29E33;
+    color: white;
+    border: none;
+    border-radius: 10px ;
+    padding: 6px 10px;
+    font-size: 10px;
+}
+
+.small-pink-button{
+    background-color: #D863A0;
+    color: white;
+    border: none;
+    border-radius: 10px ;
+    padding: 6px 10px;
+    font-size: 10px;
+}
+
+.small-yellow-button{
+    background-color: #B0C926;
+    color: white;
+    border: none;
+    border-radius: 10px ;
+    padding: 6px 10px;
+    font-size: 10px;
 }

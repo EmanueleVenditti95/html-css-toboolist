@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.logo {
+    display: inline;
+    font-family: sans-serif;
+    vertical-align: middle;
+    font-size: 35px;
+}

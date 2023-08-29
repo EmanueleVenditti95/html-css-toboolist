@@ -65,60 +65,37 @@ li{
     margin: 20px;
 }
 
-.small-blue-button {
-    background-color: #47ADF1;
+.box{
     color: white;
     border: none;
     border-radius: 10px ;
     padding: 6px 10px;
     font-size: 10px;
+
 }
 
-.small-violet-button{
+.bg-blue {
+    background-color: #47ADF1; 
+}
+
+.bg-violet {
     background-color: #9C72E4;
-    color: white;
-    border: none;
-    border-radius: 10px ;
-    padding: 6px 10px;
-    font-size: 10px;
-
 }
 
-.small-green-button{
+.bg-green {
     background-color: #64C0A9;
-    color: white;
-    border: none;
-    border-radius: 10px ;
-    padding: 6px 10px;
-    font-size: 10px;
-
 }
 
-.small-orange-button{
+.bg-orange {
     background-color: #F29E33;
-    color: white;
-    border: none;
-    border-radius: 10px ;
-    padding: 6px 10px;
-    font-size: 10px;
 }
 
-.small-pink-button{
+.bg-pink {
     background-color: #D863A0;
-    color: white;
-    border: none;
-    border-radius: 10px ;
-    padding: 6px 10px;
-    font-size: 10px;
 }
 
-.small-yellow-button{
+.bg-yellow {
     background-color: #B0C926;
-    color: white;
-    border: none;
-    border-radius: 10px ;
-    padding: 6px 10px;
-    font-size: 10px;
 }
 
 .checkmark{

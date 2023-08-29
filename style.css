@@ -27,7 +27,7 @@
     color: white;
     border: none;
     border-radius: 5px ;
-    padding: 8px;
+    padding: 8px 15px;
 }
 
 .white-button {
@@ -35,7 +35,7 @@
     color: rgb(128, 128, 128, 0.7);
     border: solid gray thin;
     border-radius: 5px ;
-    padding: 8px;
+    padding: 8px 15px;
 }
 
 .list {
@@ -96,5 +96,21 @@
     border: none;
     border-radius: 10px ;
     padding: 6px 10px;
+    font-size: 10px;
+}
+
+.checkmark{
+    border: solid thin #6FC6B2 ;
+    color: #6FC6B2;
+    border-radius: 50%;
+    padding: 5px;
+    font-size: 10px;
+}
+
+.cross {
+    border: solid thin #EA453B ;
+    color: #EA453B;
+    border-radius: 50%;
+    padding: 5px;
     font-size: 10px;
 }

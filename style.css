@@ -5,7 +5,8 @@
     font-family: sans-serif;
     font-weight:600;
 }
-
+ 
+/* Logo */
 .logo {
     display: inline;
     vertical-align:middle;
@@ -30,6 +31,7 @@ header{
     background-color: white;
 }
 
+/* Buttons */
 .buttons-bar {
     margin: 0 auto;
     margin-top: 100px;
@@ -56,6 +58,7 @@ header{
     padding: 8px 15px;
 }
 
+/* List */
 .list {
     list-style: none;
     
